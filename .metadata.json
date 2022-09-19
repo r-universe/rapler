@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "dst",
+    "oncran": true
+  }
+]
